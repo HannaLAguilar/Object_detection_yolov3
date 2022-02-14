@@ -1,5 +1,5 @@
 """
-Main script to run YOLOv3 in an image in the images folder
+Main script to run YOLOv3 in an image in the data folder
 Date: January 2022
 Author: Hanna L. Aguilar
 """
